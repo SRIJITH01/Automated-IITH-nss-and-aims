@@ -6,4 +6,4 @@ pip install easyocr<br>
 Replace line 12 driver = webdriver.Chrome('/home/srijithreddy/Desktop//srijith reddy/chromedriver') in code with your directory<br>
 Also replace the youtube link with your link<br>
 Automate file is for IITH students only<br>
-Aims and nss autoated login<br> .![pag](https://user-images.githubusercontent.com/54314892/113487173-2fbfab00-94d4-11eb-95f4-b646a55e8e89.gif)
+Aims and nss automated login<br> .![pag](https://user-images.githubusercontent.com/54314892/113487173-2fbfab00-94d4-11eb-95f4-b646a55e8e89.gif)
