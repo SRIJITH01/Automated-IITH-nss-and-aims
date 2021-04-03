@@ -1,4 +1,4 @@
-# Automated IITH websites nss and aims
+# Automated IITH websites NSS and Aims
 Tested on Ubuntu 20.04 LTS<br>
 Install selenium and chrome driver<br>
 pip install selenium<br>
