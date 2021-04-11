@@ -7,4 +7,5 @@ Replace line 12 driver = webdriver.Chrome('/home/srijithreddy/Desktop//srijith r
 Also replace the youtube link with your link<br>
 Automate file is for IITH students only<br>
 Aims and nss automated login<br> .![pag](https://user-images.githubusercontent.com/54314892/113487173-2fbfab00-94d4-11eb-95f4-b646a55e8e89.gif)<br>
-Aims captcha accuracy is 50% only so if there is an error run the code again.
+Aims captcha accuracy is 50% only so if there is an error run the code again.<br>
+If you need any help in automating logins of any website please contact me at srijithreddypakala001@gmail.com
