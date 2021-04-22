@@ -1,6 +1,6 @@
 # Automated IITH websites NSS and Aims
 Tested on Ubuntu 20.04 LTS<br>
-Install selenium and chrome driver<br>
+Install selenium and chrome driver here.![pag](https://chromedriver.chromium.org/downloads)<br>
 pip install selenium<br>
 pip install easyocr<br>
 Replace line 12 driver = webdriver.Chrome('/home/srijithreddy/Desktop//srijith reddy/chromedriver') in code with your directory<br>
