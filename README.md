@@ -1,8 +1,9 @@
 # Introduction
- We have worked on some websites using selenium to automate logins and data collections.
- Websites:<BR>
+We have worked on some websites using selenium to automate logins and data collections.
+Websites: <br>
  (1) NSS IITH [Website](https://nss.iith.ac.in/hours_portal/)<br>
  (2) Aims IITH [Website](https://aims.iith.ac.in/aims/)<br>
+ (3) Cricbuzz notification through whatsapp [Website](https://www.cricbuzz.com/)<br>
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
