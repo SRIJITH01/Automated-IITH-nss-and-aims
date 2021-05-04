@@ -10,7 +10,7 @@ Websites: <br>
 * [General info](#general-info)
 * [Modules](#Modules)
 * [Setup](#setup)
-* [Example Gif's](#Example Gif's)
+* [Example-Gif](#Example-Gif)
 
 
 ## General info
@@ -44,7 +44,7 @@ and <br>
 $ pip3 install -r requirements.txt
 ```
 Automate file is for IITH students only<br>
-## Example Gif's
+## Example-Gif
 (1) NSS Automated Login Gif.<br> 
 ![pag](https://user-images.githubusercontent.com/54314892/113487173-2fbfab00-94d4-11eb-95f4-b646a55e8e89.gif)<br>
 (2) Aims Automated Login Gif.<br>
