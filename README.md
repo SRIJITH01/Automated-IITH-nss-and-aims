@@ -1,4 +1,30 @@
-# Automated IITH websites NSS and Aims
+# Introduction
+ We have worked on some websites using selenium to automate logins and data collections.
+ Websites:<BR>
+ (1) NSS IITH [Website](https://nss.iith.ac.in/hours_portal/)<br>
+ (2) Aims IITH [Website](https://aims.iith.ac.in/aims/)<br>
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
+
+## General info
+This project is simple Lorem ipsum dolor generator.
+	
+## Technologies
+Project is created with:
+* Lorem version: 12.3
+* Ipsum version: 2.33
+* Ament library version: 999
+	
+## Setup
+To run this project, install it locally using npm:
+
+```
+$ cd ../lorem
+$ npm install
+$ npm start
+```
 Tested on Ubuntu 20.04 LTS<br>
 Install selenium and chrome driver [here](https://chromedriver.chromium.org/downloads)<br>
 pip install selenium<br>
