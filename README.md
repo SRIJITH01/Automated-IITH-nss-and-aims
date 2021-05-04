@@ -12,6 +12,7 @@ Websites: <br>
 * [Setup](#setup)
 * [Example Gif's](#Example Gif's)
 
+
 ## General info
 You are going to need some modules mentioned below.
 Tested on Ubuntu 20.04 LTS<br>
