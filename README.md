@@ -10,6 +10,7 @@ Websites: <br>
 * [General info](#general-info)
 * [Modules](#Modules)
 * [Setup](#setup)
+* [Example Gif's](#Example Gif's)
 
 ## General info
 You are going to need some modules mentioned below.
@@ -42,7 +43,9 @@ and <br>
 $ pip3 install -r requirements.txt
 ```
 Automate file is for IITH students only<br>
-Aims and nss automated login gif<br> .
+## Example Gif's
+(1) NSS Automated Login Gif.<br> 
 ![pag](https://user-images.githubusercontent.com/54314892/113487173-2fbfab00-94d4-11eb-95f4-b646a55e8e89.gif)<br>
+(2) Aims Automated Login Gif.<br>
 Aims second captcha accuracy is 68% only so if there is an error run the code again.<br>
 If you need any help in automating logins of any website please contact me at srijithreddypakala001@gmail.com
