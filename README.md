@@ -37,7 +37,6 @@ $ pip3 install opencv-python
 $ pip3 install easyocr
 $ pip3 install numpy
 $ apt install chromium-chromedriver
-
 ```
 or you can just download the latest version of chromedriver from [Website](https://chromedriver.chromium.org/downloads)<br>
 and run in terminal <br>
