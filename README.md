@@ -53,4 +53,4 @@ Automate file is for IITH students only<br>
 (2) Aims Automated Login Gif.<br> <br> <br>
 ![Alt Text](https://github.com/SRIJITH01/Automated-IITH-nss-and-aims/blob/main/ezgif-6-848cf9b92d1f%20(1).gif)<br><br>
 Aims second captcha accuracy is 68% only so if there is an error run the code again.<br>
-If you need any help in automating logins of any website please contact me at srijithreddypakala001@gmail.com
+If you need any help in automating logins of any website create an issue [here] .(https://github.com/SRIJITH01/Automated-IITH-nss-and-aims/issues/new)
