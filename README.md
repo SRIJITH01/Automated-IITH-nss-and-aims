@@ -19,6 +19,7 @@ Tested on Ubuntu 20.04 LTS<br>
 	
 ## Modules
 Code is created with:
+* Ubuntu 20.04 LTS
 * Selenium version : 3.141.0
 * Chromedriver version :  90.0.4430.24 (Always use same version of chromredriver as of chrome)(Better to use latest version)
 * Python library version : Python 3.8.5
@@ -39,7 +40,7 @@ $ apt install chromium-chromedriver
 
 ```
 or you can just download the latest version of chromedriver from [Website](https://chromedriver.chromium.org/downloads)<br>
-and <br>
+and run in terminal <br>
 ```
 $ pip3 install -r requirements.txt
 ```
