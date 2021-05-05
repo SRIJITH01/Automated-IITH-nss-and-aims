@@ -43,8 +43,6 @@ and <br>
 ```
 $ pip3 install -r requirements.txt
 
-
-
 ```
 Automate file is for IITH students only<br>
 ## Example-Gif
