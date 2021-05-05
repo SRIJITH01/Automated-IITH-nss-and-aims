@@ -42,7 +42,6 @@ or you can just download the latest version of chromedriver from [Website](https
 and <br>
 ```
 $ pip3 install -r requirements.txt
-
 ```
 Automate file is for IITH students only<br>
 ## Example-Gif
