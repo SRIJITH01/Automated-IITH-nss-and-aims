@@ -42,12 +42,15 @@ or you can just download the latest version of chromedriver from [Website](https
 and <br>
 ```
 $ pip3 install -r requirements.txt
+
+
+
 ```
 Automate file is for IITH students only<br>
 ## Example-Gif
 (1) NSS Automated Login Gif.<br> 
 ![pag](https://user-images.githubusercontent.com/54314892/113487173-2fbfab00-94d4-11eb-95f4-b646a55e8e89.gif)<br>
 (2) Aims Automated Login Gif.<br>
-![pag](file:///home/srijithreddy/ezgif-6-848cf9b92d1f.gif)<br>
+![Alt Text](https://github.com/SRIJITH01/Automated-IITH-nss-and-aims/blob/main/ezgif-6-848cf9b92d1f%20(1).gif)<br>
 Aims second captcha accuracy is 68% only so if there is an error run the code again.<br>
 If you need any help in automating logins of any website please contact me at srijithreddypakala001@gmail.com
