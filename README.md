@@ -7,6 +7,7 @@ Websites: <br>
  (2) Aims IITH [Website](https://aims.iith.ac.in/aims/)<br>
  (3) Cricbuzz notification through whatsapp [Website](https://www.cricbuzz.com/)<br>
  (4) NTA Results bruteforcing date of birth(Use at own risk,Iam not liable for any legal action) [Website](https://ntaresults.nic.in/resultservices/JEEMain-Feb-2021-auth)<br>
+ (5) Spamming your friends through random whatsapp texts.[Website](https://web.whatsapp.com/)<br>
  
 ## Table of contents
 * [General info](#general-info)
@@ -55,3 +56,4 @@ Aims second captcha accuracy is 68% only so if there is an error run the code ag
 (4) NTA  Bruteforcing Login Gif.<br> <br> <br>
 ![pag](https://user-images.githubusercontent.com/54314892/117259383-9b968a00-ae6b-11eb-9895-5fe1e12b4542.gif)<br><br>
 If you need any help in automating logins of any website or come across any error create an issue [here](https://github.com/SRIJITH01/Automated-IITH-nss-and-aims/issues/new).
+(5) Spamming friends with random texts.<br> <br> <br>
