@@ -42,6 +42,7 @@ $ pip3 install numpy
 $ apt install chromium-chromedriver
 ```
 or you can just download the latest version of chromedriver from [Website](https://chromedriver.chromium.org/downloads)<br>
+
 and run in terminal <br>
 ```
 $ pip3 install -r requirements.txt
@@ -55,5 +56,9 @@ Automate file is for IITH students only<br>
 Aims second captcha accuracy is 68% only so if there is an error run the code again.<br><br>
 (4) NTA  Bruteforcing Login Gif.<br> <br> <br>
 ![pag](https://user-images.githubusercontent.com/54314892/117259383-9b968a00-ae6b-11eb-9895-5fe1e12b4542.gif)<br><br>
-If you need any help in automating logins of any website or come across any error create an issue [here](https://github.com/SRIJITH01/Automated-IITH-nss-and-aims/issues/new).
 (5) Spamming friends with random texts.<br> <br> <br>
+![pag](https://user-images.githubusercontent.com/54314892/117331902-d375ef80-aeb4-11eb-976f-d5fc0b37fcbc.gif)<br><br>
+
+
+If you need any help in automating logins of any website or come across any error create an issue [here](https://github.com/SRIJITH01/Automated-IITH-nss-and-aims/issues/new).
+
