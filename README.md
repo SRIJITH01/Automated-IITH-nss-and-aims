@@ -6,7 +6,7 @@ Websites: <br>
  (1) NSS IITH [Website](https://nss.iith.ac.in/hours_portal/)<br>
  (2) Aims IITH [Website](https://aims.iith.ac.in/aims/)<br>
  (3) Cricbuzz notification through whatsapp [Website](https://www.cricbuzz.com/)<br>
- (4) NTA Results bruteforcing date of birth(Use at own risk,Iam not liable for any legal action) [Website](https://ntaresults.nic.in/resultservices/JEEMain-Feb-2021-auth)<br>
+ (4) NTA Results bruteforcing date of birth(Use at your own risk,Iam not liable for any legal action) [Website](https://ntaresults.nic.in/resultservices/JEEMain-Feb-2021-auth)<br>
  (5) Spamming your friends through random whatsapp texts.[Website](https://web.whatsapp.com/)<br>
  
 ## Table of contents
