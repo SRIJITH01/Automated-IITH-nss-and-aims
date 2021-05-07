@@ -54,6 +54,8 @@ Automate file is for IITH students only<br>
 (2) Aims Automated Login Gif.<br> <br> <br>
 <img src="https://github.com/SRIJITH01/Automated-IITH-nss-and-aims/blob/main/ezgif-6-848cf9b92d1f%20(1).gif" width="800" height="450"/><br><br>
 Aims second captcha accuracy is 68% only so if there is an error run the code again.<br><br>
+(3) Cricbuzz notification through whatsapp texts.<br><br><br>
+<img src="https://user-images.githubusercontent.com/54314892/117398441-03a4a900-af1c-11eb-91b1-9d7a9ceb007c.gif" width="800" height="450"/><br><br>
 (4) NTA  Bruteforcing Login Gif.<br> <br> <br>
 <img src="https://user-images.githubusercontent.com/54314892/117259383-9b968a00-ae6b-11eb-9895-5fe1e12b4542.gif" width="800" height="450"/><br><br>
 (5) Spamming friends with random texts.<br> <br> <br>
