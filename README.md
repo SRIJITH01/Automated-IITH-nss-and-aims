@@ -29,6 +29,7 @@ Code is created with:
 * opencv-python version : 4.5.1 (To detect captcha)(optional)
 * Easy ocr version : 1.3.1
 * numpy version : 1.19.5
+* Jupyter (Optional) : 6.3.0
  
 	
 ## Setup
