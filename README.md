@@ -40,6 +40,7 @@ $ pip3 install selenium
 $ pip3 install opencv-python
 $ pip3 install easyocr
 $ pip3 install numpy
+$ pip3 install jupyterlab
 $ apt install chromium-chromedriver
 ```
 or you can just download the latest version of chromedriver from [Website](https://chromedriver.chromium.org/downloads)<br>
